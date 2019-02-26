@@ -11,6 +11,17 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="theme-color" content="#222">
+#文章加密
+<script>
+    (function(){
+        if(''){
+            if (prompt('此文章需要3级权限') !== ''){
+                alert('权限获取失败！');
+                history.back();
+            }
+        }
+    })();
+</script>
 
 
 
@@ -499,7 +510,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">3</span>
+                    <span class="site-state-item-count">6</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
