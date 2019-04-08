@@ -1,70 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Atomic egg&#39;s Blog</title>
+  <title>Jimmy&#39;s Blog</title>
   
   <subtitle>这个就是我的博客！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-26T12:27:44.675Z</updated>
+  <updated>2019-02-21T12:47:23.124Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>万升</name>
+    <name>Jimmy</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的故事</title>
-    <link href="http://yoursite.com/2019/02/26/%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/"/>
-    <id>http://yoursite.com/2019/02/26/我的故事/</id>
-    <published>2019-02-26T12:20:46.000Z</published>
-    <updated>2019-02-26T12:27:44.675Z</updated>
-    
-    <content type="html"><![CDATA[<p>  以后-</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;  以后-&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>絕密檔案 SCP-XXXX</title>
-    <link href="http://yoursite.com/2019/02/26/%E7%B5%95%E5%AF%86%E6%AA%94%E6%A1%88-SCP-XXXX/"/>
-    <id>http://yoursite.com/2019/02/26/絕密檔案-SCP-XXXX/</id>
-    <published>2019-02-26T12:19:15.000Z</published>
-    <updated>2019-02-26T12:19:15.230Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>給三年后的自己</title>
-    <link href="http://yoursite.com/2019/02/26/%E7%B5%A6%E4%B8%89%E5%B9%B4%E5%90%8E%E7%9A%84%E8%87%AA%E5%B7%B1/"/>
-    <id>http://yoursite.com/2019/02/26/給三年后的自己/</id>
-    <published>2019-02-26T12:17:04.000Z</published>
-    <updated>2019-02-26T12:17:04.458Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>日志</title>
